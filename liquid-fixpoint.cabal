@@ -115,7 +115,7 @@ library
                   , async
                   , attoparsec
                   , binary
-                  , store
+                  , store                >= 0.7.12
                   , bytestring
                   , boxes
                   , cereal
